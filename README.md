@@ -1,5 +1,5 @@
 #对于我的Dokcer过去回顾和理解总结，是一些对过程的理解，由简单到复杂，包含了不少实例，具有操作性但不涉及源码，
 #希望对想入门的朋友有帮助，最近要找工作总结较为仓促，其中肯定会有不少错误，发现错误可以立即联系我
-*基本顺序是：   docker-base
-                docker-images
-                docker-volumes
+*基本顺序是：   docker-base-->
+                docker-images-->
+                docker-volumes-->
