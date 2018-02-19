@@ -1,0 +1,13 @@
+{
+"server":"0.0.0.0",
+"port_password":{
+     "8081":"buhuipao",
+     "8082":"buhuipao",
+     "8083":"buhuipao",
+     "8084":"buhuipao"
+     },
+"timeout":300,
+"method":"RC4-MD5",
+"fast_open":true,
+"workers":1
+}
